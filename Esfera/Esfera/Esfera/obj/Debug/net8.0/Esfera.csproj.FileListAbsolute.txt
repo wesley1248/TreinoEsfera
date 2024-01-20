@@ -1,0 +1,14 @@
+C:\Temp\ExerciciosDeLogica\Esfera\Esfera\Esfera\bin\Debug\net8.0\Esfera.exe
+C:\Temp\ExerciciosDeLogica\Esfera\Esfera\Esfera\bin\Debug\net8.0\Esfera.deps.json
+C:\Temp\ExerciciosDeLogica\Esfera\Esfera\Esfera\bin\Debug\net8.0\Esfera.runtimeconfig.json
+C:\Temp\ExerciciosDeLogica\Esfera\Esfera\Esfera\bin\Debug\net8.0\Esfera.dll
+C:\Temp\ExerciciosDeLogica\Esfera\Esfera\Esfera\bin\Debug\net8.0\Esfera.pdb
+C:\Temp\ExerciciosDeLogica\Esfera\Esfera\Esfera\obj\Debug\net8.0\Esfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ExerciciosDeLogica\Esfera\Esfera\Esfera\obj\Debug\net8.0\Esfera.AssemblyInfoInputs.cache
+C:\Temp\ExerciciosDeLogica\Esfera\Esfera\Esfera\obj\Debug\net8.0\Esfera.AssemblyInfo.cs
+C:\Temp\ExerciciosDeLogica\Esfera\Esfera\Esfera\obj\Debug\net8.0\Esfera.csproj.CoreCompileInputs.cache
+C:\Temp\ExerciciosDeLogica\Esfera\Esfera\Esfera\obj\Debug\net8.0\Esfera.dll
+C:\Temp\ExerciciosDeLogica\Esfera\Esfera\Esfera\obj\Debug\net8.0\refint\Esfera.dll
+C:\Temp\ExerciciosDeLogica\Esfera\Esfera\Esfera\obj\Debug\net8.0\Esfera.pdb
+C:\Temp\ExerciciosDeLogica\Esfera\Esfera\Esfera\obj\Debug\net8.0\Esfera.genruntimeconfig.cache
+C:\Temp\ExerciciosDeLogica\Esfera\Esfera\Esfera\obj\Debug\net8.0\ref\Esfera.dll
